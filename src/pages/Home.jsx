@@ -19,7 +19,7 @@ const Home = () => {
       {/* // Hero section */}
       <section
         className="
-        mb-20"
+        my-20"
       >
         <div className="my-[-30px]">
           <div
